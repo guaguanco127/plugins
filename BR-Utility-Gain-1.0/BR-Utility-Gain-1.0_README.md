@@ -1,4 +1,4 @@
-#Audio Plugins: BR-Utility-Gain-1.0 
+# Audio Plugins: BR-Utility-Gain-1.0 
 By Brian Riordan  
 guaguanco127@gmail.com  
 brianriordanmusic@gmail.com  
@@ -12,14 +12,14 @@ All versions of these plugins were created in Max/MSP using RNBO
 Max/MSP version 8.5.6
 RNBO 1.2.3
 
-##Table of Contents
+## Table of Contents
 
 [BR-Utility-Gain-1.0 Info](#plugininfo)  
 [Instructions on installing the plugin](#installation)  
 [Instructions on using as an abstraction in Max/MSP](#maxmsp)  
 [Max for Live Device](#maxforlive)
 
-##<a name="plugininfo"></a>BR-Utility-Gain-1.0 Info
+## BR-Utility-Gain-1.0 Info {#plugininfo} 
 
 Plugin Name: BR-Utility-Gain-1.0 from 10-29-2023  
 Plugin Manufacturer Name: guaguanco127  
@@ -31,7 +31,7 @@ The decibel range is from -72 dB to +35 dB.
 Currently works in any sample rate or bit depth. 
 
 
-##<a name="installation"></a>Instructions on installing the plugin:
+## <a name="installation"></a>Instructions on installing the plugin:
 
 1: Install your favorite audio software (DAW) on your computer. Make sure the software is off when installing the plugin
  
@@ -51,7 +51,7 @@ For Macintosh use BR-Mac-Utility-Gain-1.vst3 or BR-AU-Utility-Gain-1.component
 
 3: Reopen your DAW and search for the plugin the same way you'd open any effect in a track
 
-##<a name="maxmsp"></a>Instructions on using as an abstraction in Max/MSP:
+## <a name="maxmsp"></a>Instructions on using as an abstraction in Max/MSP:
 
 
 For Max/MSP, create a patch inside a folder. Then copy and paste br-utility-gain-1.0.maxpat inside of that folder. Create a new object with the name br-utility-gain-1.0 and you can use it as an object in your main patch. 
@@ -64,7 +64,7 @@ The purpose of the basic version is for beginners to be able to learn how to pro
 
 The br-utility-gain-rnbo-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
 
-##<a name="maxforlive"></a>Max for Live Device:
+## <a name="maxforlive"></a>Max for Live Device:
 
 Coming soon.....
  
