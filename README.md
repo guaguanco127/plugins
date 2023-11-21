@@ -1,4 +1,4 @@
-#Audio Plugins
+# Audio Plugins
 By Brian Riordan  
 guaguanco127@gmail.com  
 brianriordanmusic@gmail.com  
@@ -12,7 +12,7 @@ All versions of these plugins were created in Max/MSP using RNBO
 Max/MSP version 8.5.6
 RNBO 1.2.3
 
-##About
+## About
 
 The initial intention to build these plugins comes from the perspective of DAW agnosticism, or the belief that there is no such thing as the perfect DAW. If users have access to the same basic mixing plugins, then it doesn't matter which DAW they would use. Additionally, these plugins are presented in a way so that programming novices can learn to build their own plugins. Many of the plugins included in this project includes multiple versions. VST, AU, Max/MSP abstractions, Max for Live devices, and RNBO versions are provided so that users could see how each version is built. 
 
