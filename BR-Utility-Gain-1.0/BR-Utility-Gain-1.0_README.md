@@ -19,7 +19,7 @@ RNBO 1.2.3
 [Instructions on using as an abstraction in Max/MSP](#maxmsp)  
 [Max for Live Device](#maxforlive)
 
-## BR-Utility-Gain-1.0 Info {#plugininfo} 
+## <a name="plugininfo"></a>BR-Utility-Gain-1.0 Info 
 
 Plugin Name: BR-Utility-Gain-1.0 from 10-29-2023  
 Plugin Manufacturer Name: guaguanco127  
