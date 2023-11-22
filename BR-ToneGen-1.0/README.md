@@ -62,7 +62,7 @@ For Max/MSP, create a patch inside a folder. Then copy and paste br-ToneGen-1.0.
 
 This abstraction was created using gen~ 
 
-The br-utility-gain-rnbo-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
+The br-ToneGen-rnbo-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
 
 ## <a name="maxforlive"></a>Max for Live Device:
 
