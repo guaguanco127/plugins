@@ -54,15 +54,15 @@ For Macintosh use BR-Mac-Utility-Gain-1.vst3 or BR-AU-Utility-Gain-1.component
 ## <a name="maxmsp"></a>Instructions on using as an abstraction in Max/MSP:
 
 
-For Max/MSP, create a patch inside a folder. Then copy and paste br-utility-gain-1.0.maxpat inside of that folder. Create a new object with the name br-utility-gain-1.0 and you can use it as an object in your main patch. 
+For Max/MSP, create a patch inside a folder. Then copy and paste BR-Utility-Gain-1.0.maxpat inside of that folder. Create a new object with the name BR-Utility-Gain-1.0 and you can use it as an object in your main patch. 
 
 This abstraction was created using gen~ 
 
-The basic version of this abstraction is called br-utility-gain-basic-1.0.maxpat
+The basic version of this abstraction is called BR-Utility-Gain-Gasic-1.0.maxpat
 It has the same functionality but uses MSP instead of gen~
 The purpose of the basic version is for beginners to be able to learn how to program using Max/MSP, and to compare and contrast the same concept in gen~ 
 
-The br-utility-gain-rnbo-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
+The BR-Utility-Gain-RNBO-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
 
 ## <a name="maxforlive"></a>Max for Live Device:
 

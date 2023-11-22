@@ -65,13 +65,13 @@ For Macintosh use BR-Mac-Utility-Stereo-1.vst3 or BR-AU-Utility-Stereo-1.compone
 ## <a name="maxmsp"></a>Instructions on using as an abstraction in Max/MSP:
 
 
-For Max/MSP, create a patch inside a folder. Then copy and paste br-utility-stereo-1.0.maxpat inside of that folder. Create a new object with the name br-utility-stereo-1.0 and you can use it as an object in your main patch. 
+For Max/MSP, create a patch inside a folder. Then copy and paste BR-Utility-Stereo-1.0.maxpat inside of that folder. Create a new object with the name BR-Utility-Stereo-1.0 and you can use it as an object in your main patch. 
 
 This abstraction was created using gen~ 
 
 The basic version (without the use of gen~) is coming soon. 
 
-The br-utility-stereo-rnbo-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
+The BR-Utility-Stereo-RNBO-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
 
 ## <a name="maxforlive"></a>Max for Live Device:
 
