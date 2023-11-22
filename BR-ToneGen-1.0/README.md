@@ -58,11 +58,11 @@ For Macintosh use BR-Mac-ToneGen-1.vst3 or BR-AU-ToneGen-1.component
 ## <a name="maxmsp"></a>Instructions on using as an abstraction in Max/MSP:
 
 
-For Max/MSP, create a patch inside a folder. Then copy and paste br-ToneGen-1.0.maxpat inside of that folder. Create a new object with the name br-ToneGen-1.0 and you can use it as an object in your main patch. 
+For Max/MSP, create a patch inside a folder. Then copy and paste BR-ToneGen-1.0.maxpat inside of that folder. Create a new object with the name BR-ToneGen-1.0 and you can use it as an object in your main patch. 
 
 This abstraction was created using gen~ 
 
-The br-ToneGen-rnbo-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
+The BR-ToneGen-RNBO-1.0.maxpat version is designed for those who want to learn from, or observe the RNBO methods I used to create all of these plugins. 
 
 ## <a name="maxforlive"></a>Max for Live Device:
 
