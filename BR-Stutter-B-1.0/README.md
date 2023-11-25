@@ -14,12 +14,12 @@ RNBO 1.2.3
 
 ## Table of Contents
 
-[BR-Stereo-B-1.0 Info](#plugininfo)  
+[BR-Stutter-B-1.0 Info](#plugininfo)  
 [Instructions on installing the plugin](#installation)  
 [Instructions on using as an abstraction in Max/MSP](#maxmsp)  
 [Max for Live Device](#maxforlive)
 
-## <a name="plugininfo"></a>BR-Stereo-B-1.0 Info
+## <a name="plugininfo"></a>BR-Stutter-B-1.0 Info
 
 Plugin Name: **latent_mode:** from 11-22-2023  
 Plugin Manufacturer Name: guaguanco127  
@@ -27,7 +27,7 @@ Plugin Manufacturer Code: S002
 
 A glitch effect that captures a small segment of sound (up to 1000 milliseconds) and repeats.
 
-This plugin includes all of the same features as the BR-Stereo-A-1.0. It also includes a variety of additional effects to be applied to each of the repeats.
+This plugin includes all of the same features as the BR-Stutter-A-1.0. It also includes a variety of additional effects to be applied to each of the repeats.
     
 **On_off:** When "off" is selected, sound passes through as is, when "on" is selected, the effect is processing the signal. Please note that this is different than disabling the plugin in your DAW. The plugin must be enabled from the DAW in order for the audio to be recorded so that it can be glitched at a later time. 
  

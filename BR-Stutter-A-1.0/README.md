@@ -14,14 +14,14 @@ RNBO 1.2.3
 
 ## Table of Contents
 
-[BR-Stereo-A-1.0 Info](#plugininfo)  
+[BR-Stutter-A-1.0 Info](#plugininfo)  
 [Instructions on installing the plugin](#installation)  
 [Instructions on using as an abstraction in Max/MSP](#maxmsp)  
 [Max for Live Device](#maxforlive)
 
-## <a name="plugininfo"></a>BR-Stereo-A-1.0 Info
+## <a name="plugininfo"></a>BR-Stutter-A-1.0 Info
 
-Plugin Name: BR-Stereo-A-1.0 from 11-21-2023  
+Plugin Name: BR-Stutter-A-1.0 from 11-21-2023  
 Plugin Manufacturer Name: guaguanco127  
 Plugin Manufacturer Code: S001
 
