@@ -13,7 +13,7 @@ The purpose of this project is mostly educational. However, some of the basic pa
 
 ### Basic Utility Effects
 
-These effects are modelled after the Ableton Utility aduio effect. Inspect the patchers to see how it is built. The benefit of having access to these effects as a VST is that they can be used in any DAW, and you can decide on the placement and order of these effects. Additionally, these can be used as externals or abstractions in Max/MSP.
+These effects are modelled after the Ableton Utility aduio effect. Inspect the patchers to see how it is built. The benefit of having access to these effects as a VST is that they can be used in any DAW, and you can decide on the placement and order of these effects. Additionally, these can be used as externals or abstractions in Max/MSP.  
 
 [br.utility.gain.1.0](https://github.com/guaguanco127/br.utility.gain.1.0)  A basic utility effect that allows the user to adjust the volume of a stereo signal. The decibel range is from -72 dB to +35 dB. -72 dB is converted to negative infinity dB. 
 
