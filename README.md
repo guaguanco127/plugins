@@ -2,7 +2,8 @@
    
 By Brian Riordan  
 [guaguanco127@gmail.com](mailto:guaguanco127@gmail.com)  
-[brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)  
+[brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)   
+[https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/) 
 
 This is a project started by Brian Riordan in 2023. Users with access to either Max/MSP, Ableton Live Suite, the abilty to use customized patches, abstractions, externals, or Max for Live devices. Users with access to RNBO can build their own VST or AU audio plugins for free to use on their own DAW. 
 
