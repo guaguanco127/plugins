@@ -45,7 +45,7 @@ These effects are modelled after the Ableton Utility aduio effect. Inspect the p
 
 [br.freezex.1.0](https://github.com/guaguanco127/br.freezex.1.0) A spectral freeze object/device that is similar to br.freeze.1.0 except this allows for crossfading into the next freeze by as much as 10 seconds. 
 
-[br.pitchshift.1,0](https://github.com/guaguanco127/br.pitchshift.1.0) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
+[br.pitchshift.1.0](https://github.com/guaguanco127/br.pitchshift.1.0) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
 
 
