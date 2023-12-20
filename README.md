@@ -14,6 +14,8 @@ The purpose of this project is mostly educational. However, some of the basic pa
 
 [Basic Utility Effects](#utility) 
 
+[Glitch/Granular Effects](#grain)
+
 [Spectral Effects](#spectral) 
 
 ## <a name="utility"></a>Basic Utility Effects
@@ -31,6 +33,11 @@ These effects are modelled after the Ableton Utility aduio effect. Inspect the p
 [br.utility.stereo.1.0](https://github.com/guaguanco127/br.utility.stereo.1.0)  A basic utility effect that allows the user to adjust mix of a stereo signal, such as swapping, left only, right only, mid, or side. Additionally, the user can adjust the width or the pan of the resulting signal.
 
 [br.utility.stereomix.1.0](https://github.com/guaguanco127/br.utility.stereomix.1.0) A basic utility effect that allows the user to mix the individual stereo channels independently. In addition to invert settings, the user can adjust the gain and the panning of each channel.  
+
+## <a name="grain"></a>Glitch/Granular Effects
+
+[br.munge.1.0](https://github.com/guaguanco127/br.munge.1.0) A real-time granulator and an emulation of the munger~ external object from Max/MSP. Additional features, such as processing of a stereo signal, and additional amplitude and stereo envelopes included.
+
 
 ## <a name="spectral"></a>Spectral Effects
 
