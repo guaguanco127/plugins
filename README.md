@@ -47,6 +47,8 @@ These effects are modelled after the Ableton Utility aduio effect. Inspect the p
 
 [br.pitchshift.1.0](https://github.com/guaguanco127/br.pitchshift.1.0) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
+[br.whammy.1.0](https://github.com/guaguanco127/br.whammy.1.0) A pitchshifting device/object with no latency and some artifacts. Preferred for whammy style pitchshiftinging.
+
 
 
 
