@@ -24,11 +24,11 @@ The purpose of this project is primarily educational. However, some basic patche
 
 These effects are modeled after the Ableton Utility audio effect. Inspect the patchers to see how they are built. The benefit of having access to these effects as a VST is that they can be used in any DAW, and you can decide on the placement and order of these effects. Additionally, these can be used as externals or abstractions in Max/MSP.  
 
-[br.utility.gain.1.0](https://github.com/guaguanco127/br.utility.gain.1.0)  A basic utility effect that allows the user to adjust the volume of a stereo signal. 
+[br.utility.gain.1.0](https://github.com/guaguanco127/br.utility.gain.1.0)  A basic utility effect that allows the user to adjust the volume of a stereo signal.
 
 [br.utility.mute.1.0](https://github.com/guaguanco127/br.utility.mute.1.0)  A basic utility effect that allows the user to mute a stereo signal.
 
-[br.utility.mono.1.0](https://github.com/guaguanco127/br.utility.mono.1.0)  A basic utility effect that sums a stereo signal into mono with 3 different mix settings
+[br.utility.mono.1.0](https://github.com/guaguanco127/br.utility.mono.1.0)  A basic utility effect that sums a stereo signal into mono with 3 different mix settings.
 
 [br.utility.monobass.1.0](https://github.com/guaguanco127/br.utility.monobass.1.0) A basic utility effect that allows the user to sum frequencies below a cutoff to mono while leaving frequencies above in stereo
  
