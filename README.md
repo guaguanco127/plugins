@@ -5,7 +5,7 @@ By Brian Riordan
 [brianriordanmusic@gmail.com](mailto:brianriordanmusic@gmail.com)   
 [https://www.brianriordanmusic.com/](https://www.brianriordanmusic.com/) 
 
-This repository is a project started by Brian Riordan in 2023. Users that have access to either Max/MSP, Ableton Live Suite, the ability to use customized patches, abstractions, externals, or Max for Live devices. Users with access to RNBO can build their own VST or AU audio plugins for free to use with their own DAW.  
+This repository is a project started by Brian Riordan in 2023. Users that have access to either Max/MSP, or Ableton Live Suite, will have the ability to use customized patches, abstractions, externals, or Max for Live devices. Users with access to RNBO can build their own VST or AU audio plugins for free to use with their own DAW.  
 
 The purpose of this project is primarily educational. However, some basic patches or VSTs here are designed with "DAW agnosticism" in mind. If you have access to fundamental mixing plugins, then it doesn't matter which DAW you use.
 
