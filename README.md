@@ -44,6 +44,14 @@ These effects are modeled after the Ableton Utility audio effect. Inspect the pa
 
 [br.munge.1.0](https://github.com/guaguanco127/br.munge.1.0) A real-time granulator and an emulation of the munger~ external object from Max/MSP. Additional features, such as the processing of a stereo signal and additional amplitude and stereo envelopes, are included.
 
+[br.stutter.a.1.0](https://github.com/guaguanco127/br.stutter.a.1.0) An abstraction/device that is built around the Max/MSP stutter~ object. A real-time granular glitch effect that is a signal capture buffer. 
+
+[br.stutter.b.1.0](https://github.com/guaguanco127/br.stutter.b.1.0) An abstraction/device that is built around the Max/MSP stutter~ object. This contains all features as the br.stutter.a.1.0 but with extras. This effect adds LFOs in sync with each grain that can manipulate a filter, amplitude, and panning. 
+
+[br.stutter.c.1.0](https://github.com/guaguanco127/br.stutter.c.1.0) An abstraction/device that is built around the Max/MSP stutter~ object. This contains all features as the br.stutter.b.1.0 but with extras. This effect includes an auto re-triggering feature, auto-detection, adjustment of the phase (starting position) of the grains, and a refresher that restarts the grain when it reaches a certain position within the phase.
+
+
+
 
 ## <a name="spectral"></a>Spectral Effects
 
