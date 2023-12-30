@@ -9,6 +9,10 @@ This repository is a project started by Brian Riordan in 2023. Users that have a
 
 The purpose of this project is primarily educational. However, some basic patches or VSTs here are designed with "DAW agnosticism" in mind. If you have access to fundamental mixing plugins, then it doesn't matter which DAW you use.
 
+The naming system (br.xxxx.xx.1.0) is because all of these are prototypes. A more "proper" name will occur when these reach a certain level of quality regarding their stability and GUI. When that happens, the effect may move to a Gumroad account 
+
+Please contact me at the emails provided above if you have any question, notice any errors, or have any requests. 
+
 
 ## Links to Max/MSP Patches, Abstractions, Externals, RNBO, VSTs, and Ableton Max for Live:
 
@@ -19,6 +23,8 @@ The purpose of this project is primarily educational. However, some basic patche
 [Glitch/Granular Effects](#grain)
 
 [Spectral Effects](#spectral) 
+
+[Future Effects](#future) 
 
 ## <a name="utility"></a>Basic Utility Effects
 
@@ -62,6 +68,38 @@ These effects are modeled after the Ableton Utility audio effect. Inspect the pa
 [br.pitchshift.1.0](https://github.com/guaguanco127/br.pitchshift.1.0) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
 [br.whammy.1.0](https://github.com/guaguanco127/br.whammy.1.0) A pitch-shifting device/object with no latency and some artifacts. 
+
+## <a name="future"></a>Future Effects/Instruments
+
+These are planned effects to be released on a later date. 
+
+br.scrub.1.0 A granular effect that scrubs through a buffer in real-time. 
+
+br.delay.reverse.1.0 A reverse delay effect 
+
+br.skipper.1.0 A granular effect that acts like a chaotic degital delay that randomly skips between delay times. 
+
+br.repeater.1.0 A type of looper that plays back the most recent "n seconds" stereo signals between 0. and 10,000 ms. This differs from a regular looper in that it reads from a circular buffer. It is reactionary in the sense that if you hear something that just happened you can go back and grab it. Scrubbing and speed features will be available. 
+
+br.strong.1.0 A Karplus Strong style synth with different features. Higher fideltiy and deeper sound than the traditional synth. 
+
+br.retrigger.1.0 A granular sampler that can retrigger any sample as frequent as the nyquist frequency without changing the pitch. Pitchshifting feature for timbrel adjustments will be a feature. 
+
+br.tone.1.0 A standard tone generator. Sine, Sawtooth, Triangle, Square, White Noise, and Pink Noise. 
+
+br.delay.1.0 A stereo delay with more dynamic features than the typical stock plugin. Analog and digital modes, along with cross feedback features, and tape warp effects will be featured.
+
+br.comber.1.0 Not your typical comb filter. A cascade of all pass filters create many chaotic possibilities. Almost a granular sound. 
+
+br.looper.1.0 Not your typical looper. Various granular effects will be a feature. 
+
+br.modulator.1.0 A variety of modulators (chorus, flanger, phasor, tremolo, vibrato) with a variety of LFOs with folding and chaotic features 
+
+br.synth.detect.1.0 A synth that takes in an audio signal and turns it into a synth.
+
+Many more.....
+
+
 
 
 
