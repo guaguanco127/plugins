@@ -99,6 +99,8 @@ br.modulator.1.0 A variety of modulators (chorus, flanger, phasor, tremolo, vibr
 
 br.synth.detect.1.0 A synth that takes in an audio signal and turns it into a synth.
 
+br.delay.space.1.0 A 10-second multitap delay where each delay line has its own independant set of oscillating LFOs to alter amplitude, filtering, and panning. 
+
 Many more.....
 
 
