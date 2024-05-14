@@ -46,7 +46,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 ## <a name="delay"></a>Delay Effects   
 
-[br.delay.pitch.1.0](https://github.com/guaguanco127/br.delay.pitch.1.0) A stereo delay effect with a pitchshifter included in the delay line.
+[br.delay.pitch](https://github.com/guaguanco127/br.delay.pitch) A stereo delay effect with a pitchshifter included in the delay line.
 
 ## <a name="grain"></a>Glitch/Granular Effects
 
