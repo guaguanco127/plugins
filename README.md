@@ -65,7 +65,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.freeze](https://github.com/guaguanco127/br.freeze) A spectral freeze Max/MSP object and Max for Live Device.  
 
-[br.freezex.1.0](https://github.com/guaguanco127/br.freezex.1.0) A spectral freeze object/device similar to br.freeze.1.0, except this allows for crossfading into the next freeze by as much as 10 seconds.
+[br.freezex](https://github.com/guaguanco127/br.freezex) A spectral freeze object/device similar to br.freeze.1.0, except this allows for crossfading into the next freeze by as much as 10 seconds.
 
 [br.pitchshift.1.0](https://github.com/guaguanco127/br.pitchshift.1.0) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
