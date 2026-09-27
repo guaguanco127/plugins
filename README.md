@@ -48,6 +48,8 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.delay.pitch](https://github.com/guaguanco127/br.delay.pitch) A stereo delay effect with a pitchshifter included in the delay line.
 
+[br.spacedelay](https://github.com/guaguanco127/br.spacedelay) A stereo multi-voice delay: up to 12 voices keep skipping to random delay times (crossfaded, click-free), each with its own randomly moving filter, amplitude and panning, plus a freeze that loops only the last moments of the delay.
+
 ## <a name="grain"></a>Glitch/Granular Effects
 
 [br.munge](https://github.com/guaguanco127/br.munge) A real-time granulator and an emulation of the munger~ external object from Max/MSP. Additional features, such as the processing of a stereo signal and additional amplitude and stereo envelopes, are included.
