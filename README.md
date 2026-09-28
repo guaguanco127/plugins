@@ -58,7 +58,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.stutter.b.1.0](https://github.com/guaguanco127/br.stutter.b.1.0) An abstraction/device that is built around the Max/MSP stutter~ object. This contains all features as the br.stutter.a.1.0 but with extras. This effect adds LFOs in sync with each grain that can manipulate a filter, amplitude, and panning. 
 
-[br.stutter.c.1.0](https://github.com/guaguanco127/br.stutter.c.1.0) An abstraction/device that is built around the Max/MSP stutter~ object. This contains all features as the br.stutter.b.1.0 but with extras. This effect includes an auto re-triggering feature, auto-detection, adjustment of the phase (starting position) of the grains, and a refresher that restarts the grain when it reaches a certain position within the phase.
+[br.stutter.c](https://github.com/guaguanco127/br.stutter.c) An abstraction/device that is built around the Max/MSP stutter~ object. This contains all features as the br.stutter.b.1.0 but with extras. This effect includes an auto re-triggering feature, auto-detection, adjustment of the phase (starting position) of the grains, and a refresher that restarts the grain when it reaches a certain position within the phase.
 
 
 
