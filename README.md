@@ -52,7 +52,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 ## <a name="grain"></a>Glitch/Granular Effects
 
-[br.munge](https://github.com/guaguanco127/br.munge) A real-time granulator and an emulation of the munger~ external object from Max/MSP. Additional features, such as the processing of a stereo signal and additional amplitude and stereo envelopes, are included.
+[br.munge](https://github.com/guaguanco127/br.munge) A real-time granulator and an emulation of the munger~ external object from Max/MSP. Additional features, such as the processing of a stereo signal, additional amplitude and stereo envelopes, ping-pong feedback, and a freeze that keeps the grains playing from only the last moments of the input, are included.
 
 [br.stutter.a](https://github.com/guaguanco127/br.stutter.a) An abstraction/device that is built around the Max/MSP stutter~ object. A real-time granular glitch effect that is a signal capture buffer. 
 
