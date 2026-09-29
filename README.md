@@ -69,7 +69,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.freezex](https://github.com/guaguanco127/br.freezex) A spectral freeze object/device similar to br.freeze, except this allows for crossfading into the next freeze by as much as 10 seconds.
 
-[br.pitchshift.1.0](https://github.com/guaguanco127/br.pitchshift.1.0) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
+[br.pitchshift](https://github.com/guaguanco127/br.pitchshift) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
 [br.whammy.1.0](https://github.com/guaguanco127/br.whammy.1.0) A pitch-shifting device/object with no latency and some artifacts. 
 
