@@ -46,7 +46,9 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 ## <a name="delay"></a>Delay Effects   
 
-[br.delay.pitch.a](https://github.com/guaguanco127/br.delay.pitch.a) A stereo delay with a pitch-shifter inside the delay line, so every repeat is shifted again. Protected feedback loop (soft saturation, Highpass/Lowpass) that can hold or build, low CPU at rest. A version b with more features is planned.
+[br.delay.pitch.a](https://github.com/guaguanco127/br.delay.pitch.a) A stereo delay with a pitch-shifter inside the delay line, so every repeat is shifted again. Protected feedback loop (soft saturation, Highpass/Lowpass) that can hold or build, low CPU at rest.
+
+[br.delay.pitch.b](https://github.com/guaguanco127/br.delay.pitch.b) Version b of br.delay.pitch: the same pitch-shifting delay plus just-intonation pitch steps (overtone scale) with fine-tune cents, and randomizing of pitch, delay time and feedback -- by button, automatically, or on every attack you play.
 
 [br.spacedelay](https://github.com/guaguanco127/br.spacedelay) A stereo multi-voice delay: up to 12 voices keep skipping to random delay times (crossfaded, click-free), each with its own randomly moving filter, amplitude and panning, plus a freeze that loops only the last moments of the delay.
 
