@@ -67,9 +67,9 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 ## <a name="spectral"></a>Spectral Effects
 
-[br.freeze](https://github.com/guaguanco127/br.freeze) A spectral freeze Max/MSP object and Max for Live Device.  
+[br.freeze](https://github.com/guaguanco127/br.freeze) A spectral freeze Max/MSP object and Max for Live Device. It can also freeze automatically on every attack you play.  
 
-[br.freezex](https://github.com/guaguanco127/br.freezex) A spectral freeze object/device similar to br.freeze, except this allows for crossfading into the next freeze by as much as 10 seconds.
+[br.freezex](https://github.com/guaguanco127/br.freezex) A spectral freeze object/device similar to br.freeze, except this allows for crossfading into the next freeze by as much as 10 seconds. It can also freeze automatically on every attack you play.
 
 [br.pitchshift](https://github.com/guaguanco127/br.pitchshift) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
