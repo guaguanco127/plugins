@@ -79,7 +79,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 ## <a name="modulation"></a>Modulation Tools
 
-[br.scale](https://github.com/guaguanco127/br.scale) Two Max/MSP abstractions that scale an LFO or oscillator (-1 to 1) on curves that sound even to the ear: br.scale.amp for volume, br.scale.freq for pitch and filter cutoff.
+[br.scale](https://github.com/guaguanco127/br.scale) Max/MSP abstractions that turn an LFO into volume or frequency on curves that sound even to the ear.
 
 ## <a name="future"></a>Future Effects/Instruments
 
