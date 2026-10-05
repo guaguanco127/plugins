@@ -24,6 +24,8 @@ Please contact me at the emails provided above if you have any questions, notice
 
 [Spectral Effects](#spectral) 
 
+[Modulation Tools](#modulation)
+
 [Future Effects](#future) 
 
 ## <a name="utility"></a>Basic Utility Effects
@@ -74,6 +76,10 @@ Many of these effects have a RNBO patch included that allow the user to export a
 [br.pitchshift](https://github.com/guaguanco127/br.pitchshift) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
 [br.whammy.1.0](https://github.com/guaguanco127/br.whammy.1.0) A pitch-shifting device/object with no latency and some artifacts. 
+
+## <a name="modulation"></a>Modulation Tools
+
+[br.scale](https://github.com/guaguanco127/br.scale) Two Max/MSP abstractions that scale an LFO or oscillator (-1 to 1) on curves that sound even to the ear: br.scale.amp for volume, br.scale.freq for pitch and filter cutoff.
 
 ## <a name="future"></a>Future Effects/Instruments
 
