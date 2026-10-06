@@ -28,6 +28,8 @@ Please contact me at the emails provided above if you have any questions, notice
 
 [Modulation Tools](#modulation)
 
+[Filters](#filters)
+
 [Future Effects](#future) 
 
 ## <a name="utility"></a>Basic Utility Effects
@@ -88,6 +90,10 @@ Many of these effects have a RNBO patch included that allow the user to export a
 [br.scale](https://github.com/guaguanco127/br.scale) Max/MSP abstractions that turn an LFO into volume or frequency on curves that sound even to the ear.
 
 [br.am](https://github.com/guaguanco127/br.am) Max/MSP abstraction for click-free stereo tremolo that morphs into ring modulation, from LFO to audio rate.
+
+## <a name="filters"></a>Filters
+
+[br.filter](https://github.com/guaguanco127/br.filter) Max/MSP abstractions: a family of stereo biquad filters in gen~ with click-free controls. Lowpass, highpass, bandpass, notch, allpass, peak and shelves, plus an all-in-one biquad and level-matched versions.
 
 ## <a name="future"></a>Future Effects/Instruments
 
