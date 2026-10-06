@@ -30,6 +30,8 @@ Please contact me at the emails provided above if you have any questions, notice
 
 [Filters](#filters)
 
+[Waveshapers](#shapers)
+
 [Future Effects](#future) 
 
 ## <a name="utility"></a>Basic Utility Effects
@@ -96,6 +98,10 @@ Many of these effects have a RNBO patch included that allow the user to export a
 ## <a name="filters"></a>Filters
 
 [br.filter](https://github.com/guaguanco127/br.filter) Max/MSP abstractions: a family of stereo biquad filters in gen~ with click-free controls. Lowpass, highpass, bandpass, notch, allpass, peak and shelves, plus an all-in-one biquad and level-matched versions.
+
+## <a name="shapers"></a>Waveshapers
+
+[br.shaper](https://github.com/guaguanco127/br.shaper) Max/MSP abstractions: a family of mono waveshapers in gen~ for synthesis, antialiased and click-free. Wavefolder, wrapper, hard clipper and Buchla-style sine folder, plus an all-in-one with click-free mode switching. Works on audio and LFOs.
 
 ## <a name="future"></a>Future Effects/Instruments
 
