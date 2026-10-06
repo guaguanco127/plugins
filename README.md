@@ -24,6 +24,8 @@ Please contact me at the emails provided above if you have any questions, notice
 
 [Spectral Effects](#spectral) 
 
+[Oscillators](#oscillators)
+
 [Modulation Tools](#modulation)
 
 [Future Effects](#future) 
@@ -76,6 +78,10 @@ Many of these effects have a RNBO patch included that allow the user to export a
 [br.pitchshift](https://github.com/guaguanco127/br.pitchshift) A pitchshifting device/object with slight latency and no artifacts. Preferred for harmonization.
 
 [br.whammy.1.0](https://github.com/guaguanco127/br.whammy.1.0) A pitch-shifting device/object with no latency and some artifacts. 
+
+## <a name="oscillators"></a>Oscillators
+
+[br.osc](https://github.com/guaguanco127/br.osc) An anti-aliasing Max/MSP oscillator with 8 morphing shapes, skew and hard sync: clean at audio rate, and just as good as an LFO.
 
 ## <a name="modulation"></a>Modulation Tools
 
