@@ -87,7 +87,7 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.scale](https://github.com/guaguanco127/br.scale) Max/MSP abstractions that turn an LFO into volume or frequency on curves that sound even to the ear.
 
-[br.am](https://github.com/guaguanco127/br.am) Max/MSP abstraction for click-free stereo tremolo that morphs into ring modulation.
+[br.am](https://github.com/guaguanco127/br.am) Max/MSP abstraction for click-free stereo tremolo that morphs into ring modulation, from LFO to audio rate.
 
 ## <a name="future"></a>Future Effects/Instruments
 
