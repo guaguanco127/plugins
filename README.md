@@ -50,6 +50,8 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.utility.stereomix.1.0](https://github.com/guaguanco127/br.utility.stereomix.1.0) A basic utility effect that allows the user to mix the individual stereo channels independently. In addition to invert settings, the user can adjust each channel's gain and panning. 
 
+[br.feedback](https://github.com/guaguanco127/br.feedback) Max/MSP abstractions that let a signal feed back into itself: a tapin~/tapout~ pair adds the one-vector delay MSP needs to run a loop. Mono and stereo versions, with an FM feedback example.
+
 ## <a name="delay"></a>Delay Effects   
 
 [br.delay.pitch.a](https://github.com/guaguanco127/br.delay.pitch.a) A stereo delay with a pitch-shifter inside the delay line, so every repeat is shifted again. Protected feedback loop (soft saturation, Highpass/Lowpass) that can hold or build, low CPU at rest.
