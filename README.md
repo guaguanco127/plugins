@@ -95,6 +95,8 @@ Many of these effects have a RNBO patch included that allow the user to export a
 
 [br.am](https://github.com/guaguanco127/br.am) Max/MSP abstraction for click-free stereo tremolo that morphs into ring modulation, from LFO to audio rate.
 
+[br.function](https://github.com/guaguanco127/br.function) Max/MSP abstraction: a mono rise/fall function generator in gen~, in the spirit of a Make Noise Maths channel. Envelope, slew/portamento and cycling LFO in one, with curved Rise and Fall, click-free retrigger, and end-of-rise/end-of-cycle pulses for chaining.
+
 ## <a name="filters"></a>Filters
 
 [br.filter](https://github.com/guaguanco127/br.filter) Max/MSP abstractions: a family of stereo biquad filters in gen~ with click-free controls. Lowpass, highpass, bandpass, notch, allpass, peak and shelves, plus an all-in-one biquad and level-matched versions.
